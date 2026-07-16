@@ -22,7 +22,7 @@
 
 // Programme de test pour l'exercice 03.
 // Tests 1-23 : ex02. Tests 24-28 : classe Intern et makeForm().
-// Le correcteur peut tout verifier en lançant ./intern.
+// Chaque section illustre un point du sujet en lançant ./intern.
 
 int main()
 {

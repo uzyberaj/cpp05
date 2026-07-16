@@ -13,8 +13,7 @@
 #include "Bureaucrat.hpp"
 
 // Programme de test pour l'exercice 00.
-// Chaque section prouve un point du sujet : le correcteur peut tout verifier
-// en lançant ./bureaucrat sans ajouter de tests.
+// Chaque section illustre un point du sujet en lançant ./bureaucrat.
 
 int main()
 {

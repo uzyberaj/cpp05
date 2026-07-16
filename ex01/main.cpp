@@ -15,7 +15,7 @@
 
 // Programme de test pour l'exercice 01.
 // Tests 1-10 : Bureaucrat (ex00). Tests 11-16 : Form et signForm.
-// Le correcteur peut tout verifier en lançant ./form.
+// Chaque section illustre un point du sujet en lançant ./form.
 
 int main()
 {

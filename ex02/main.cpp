@@ -21,7 +21,7 @@
 
 // Programme de test pour l'exercice 02.
 // Tests 1-16 : Bureaucrat + AForm (heritage ex01). Tests 17-23 : formes concretes.
-// Le correcteur peut tout verifier en lançant ./forms.
+// Chaque section illustre un point du sujet en lançant ./forms.
 
 int main()
 {
